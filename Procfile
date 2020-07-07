@@ -1,1 +1,1 @@
-web: python elecpredapp.py
+web:python app.py
